@@ -3,7 +3,7 @@
   <groupId>com.qury</groupId>
   <artifactId>qurysdk</artifactId>
   <versioning>
-    <release>0.1.4.1</release>
+    <release>0.1.4.2</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -11,7 +11,8 @@
       <version>0.1.3</version>
       <version>0.1.4</version>
       <version>0.1.4.1</version>
+      <version>0.1.4.2</version>
     </versions>
-    <lastUpdated>20190716192213</lastUpdated>
+    <lastUpdated>20190717085921</lastUpdated>
   </versioning>
 </metadata>
